@@ -1,1 +1,1 @@
-[exapme is the one of the text link] (https://example.com)
+([example is the one of the text link](https://example.com))
